@@ -1,0 +1,21 @@
+[debug] [2023-12-19T23:14:39.853Z] ----------------------------------------------------------------------
+[debug] [2023-12-19T23:14:39.854Z] Command:       /Users/suphakpornsangjoren/.nvm/versions/node/v18.18.1/bin/node /Users/suphakpornsangjoren/.nvm/versions/node/v18.18.1/bin/firebase init
+[debug] [2023-12-19T23:14:39.854Z] CLI Version:   13.0.2
+[debug] [2023-12-19T23:14:39.854Z] Platform:      darwin
+[debug] [2023-12-19T23:14:39.855Z] Node Version:  v18.18.1
+[debug] [2023-12-19T23:14:39.855Z] Time:          Wed Dec 20 2023 06:14:39 GMT+0700 (Indochina Time)
+[debug] [2023-12-19T23:14:39.855Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-19T23:14:39.858Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-19T23:14:39.858Z] > authorizing via signed-in user (cazycatcaster.k94@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/suphakpornsangjoren/Desktop/expense-tracker/expense-tracker
+
